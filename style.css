@@ -1,0 +1,24 @@
+nav{
+    background: black url("https://cdn.bonjovi.com/images/header_bg.jpg") center repeat-x;
+    height: 50px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+body{
+    margin: 0;
+}
+
+.nav-botton{
+    background: black url("https://cdn.bonjovi.com/images/header_bg.jpg") repeat-x center ;
+    height: 10px;
+    width: 100vw;
+}
+
+.details{
+    display: relative;
+    left: 10;
+    color: gold;
+}
